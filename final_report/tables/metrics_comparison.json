@@ -1,0 +1,40 @@
+[
+  {
+    "experiment": "Random ViT",
+    "epochs_recorded": 200,
+    "final_epoch": 200,
+    "final_train_loss": 2.5140946358384044e-07,
+    "final_train_accuracy": 1.0,
+    "final_val_loss": 2.3430033061312474,
+    "final_val_accuracy": 0.7910694597574421,
+    "final_val_precision": 0.6384730538922155,
+    "final_val_recall": 0.7562056737588653,
+    "final_val_f1": 0.6923701298701299,
+    "final_val_auc": 0.8645109929078014,
+    "best_val_accuracy": 0.8131201764057332,
+    "best_val_accuracy_epoch": 33,
+    "best_val_f1": 0.7062679229823843,
+    "best_val_f1_epoch": 96,
+    "best_val_auc": 0.8744028368794325,
+    "best_val_auc_epoch": 102
+  },
+  {
+    "experiment": "MAE→ViT",
+    "epochs_recorded": 200,
+    "final_epoch": 200,
+    "final_train_loss": 8.179948932252046e-08,
+    "final_train_accuracy": 1.0,
+    "final_val_loss": 2.3233226822913022,
+    "final_val_accuracy": 0.8070562293274531,
+    "final_val_precision": 0.6594634873323398,
+    "final_val_recall": 0.7845744680851063,
+    "final_val_f1": 0.7165991902834008,
+    "final_val_auc": 0.8819964539007092,
+    "best_val_accuracy": 0.834619625137817,
+    "best_val_accuracy_epoch": 22,
+    "best_val_f1": 0.733921815889029,
+    "best_val_f1_epoch": 21,
+    "best_val_auc": 0.8952567375886524,
+    "best_val_auc_epoch": 23
+  }
+]

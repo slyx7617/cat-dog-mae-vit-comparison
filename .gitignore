@@ -1,0 +1,26 @@
+# Datasets
+dataset_full/
+*.zip
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Logs from unrelated experiments
+*.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
